@@ -10,5 +10,10 @@ Ancak bugünden sonra hergün kısa kısa öğrendiklerimi yazmaya karar verdim.
 
 Istersen [medium bloguma](https://medium.com/@htayyar) gidebilirsin veya istersen buraya [hasantayyar.net](https://hasantayyar.net). 
 
-[Arsiv](./a/)
+Cogu zaman klavyemi TR klavye yapmaya erinip Turkce karakterleri basmayacagim. Ayri notlar multilingual olacak.
+
+Tamamen kendim icin. O yuzden elestiriye acik degilim. Ama public yaptim ki dileyen de okyabilsin.
+
+
+Tum notlar [arsivi](./a/)
 
