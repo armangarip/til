@@ -10,5 +10,5 @@ Ancak bugünden sonra hergün kısa kısa öğrendiklerimi yazmaya karar verdim.
 
 Istersen [medium bloguma](https://medium.com/@htayyar) gidebilirsin veya istersen buraya [hasantayyar.net](https://hasantayyar.net). 
 
-[Arsiv](./til)
+[Arsiv](./a/)
 
