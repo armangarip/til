@@ -5,3 +5,4 @@
 - [3 Mayıs 2018](./3-May.md)
 - [4 Mayıs 2018](./4-May.md)
 - [5 Mayıs 2018](./5-May.md)
+- [6 Mayıs 2018](./6-May.md)
