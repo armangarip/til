@@ -1,3 +1,8 @@
+---
+prev: ./1-May.md
+next: ./3-May.md
+---
+
 # 2 Mayıs
 
 - IKEv2 VPN baglantisi WiFi degistirince veya bilgisayar uyuyup kalkinca dusmuyor. Simdiye kadar L2TP kullaniyordum ancak IKEv2 ye gececegim sanirim. Guvenlik karislastirmalarinda ve uyuyumlulukta daha onde gorunuyor.
