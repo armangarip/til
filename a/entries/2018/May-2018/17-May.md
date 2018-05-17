@@ -1,0 +1,8 @@
+---
+prev: ./13-May.md
+next: false
+---
+
+# 17 Mayıs
+
+- AWS Secrets Manager cok guzel calisiyor. Son yedi gundur tum projeyi degistirdim. Guzelce entegre ettim. "Secret" kayitlari app boot oncesinde cekiyorum sonra environment olarak set ediyorum.
