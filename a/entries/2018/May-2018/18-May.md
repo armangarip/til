@@ -1,6 +1,6 @@
 ---
 prev: ./17-May.md
-next: false
+next: ./22-May.md
 ---
 
 # 18 Mayıs
