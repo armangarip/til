@@ -1,6 +1,6 @@
 ---
 prev: ./2-May.md
-next: ./3-May.md
+next: ./4-May.md
 ---
 
 # 3 Mayıs
